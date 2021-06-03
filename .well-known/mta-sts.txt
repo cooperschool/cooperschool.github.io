@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: ASPMX2.GOOGLEMAIL.COM
 mx: ASPMX5.GOOGLEMAIL.COM
 mx: ASPMX3.GOOGLEMAIL.COM
